@@ -12,4 +12,4 @@ requirements.txt bibliotecas necessarias
 * Model 
     * User classe de modelo para usuarios
 * Seguranca Seguranca cria hash com senha e faz a validação de senhas 
-* Vies temos as telas de login e a tela principal
+* Views temos as telas de login e a tela principal
