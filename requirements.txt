@@ -1,0 +1,11 @@
+bcrypt==3.2.0
+cffi==1.15.0
+peewee==3.14.10
+postgres==4.0
+psycopg2-binary==2.9.3
+psycopg2-pool==1.1
+pycparser==2.21
+PySide6==6.2.3
+shiboken6==6.2.3
+six==1.16.0
+validate-docbr==1.10.0
