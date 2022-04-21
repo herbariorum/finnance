@@ -1,0 +1,53 @@
+#formulario {
+    background-color: #ffffff;
+}
+
+#close {
+    color: #ffffff;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#close:hover {
+    background-color: #f6dcdf;
+    border: 2px solid #f6dcdf;
+}
+
+#close:pressed {
+    background-color: #c9d1d7;
+    border: 2px solid #c9d1d7;
+}
+
+#usuario, #password {
+    padding: 1px;
+    border-style: 2px solid #474747;
+    border-bottom: 2px solid #c0c0c0;
+}
+#usuario:hover, #usuario:focus, #password:hover, #password:focus {
+    border-bottom: 2px solid #00aaaa;
+}
+
+#button_logar {
+    color: #ffffff;
+    background-color: #102940;
+    text-align: center;
+    border-color: #102940;
+    min-height: 25px;
+}
+
+#button_logar:hover {
+    color: #ffffff;
+    background-color: #397E95;
+    border-color: #397E95;
+}
+
+#button_logar:pressed {
+    border: 3px solid #102940;
+}
+
+#link {
+    border: 0px;
+    color: #ff0000;
+    font-size: 8pt;
+    text-decoration: none;
+}
